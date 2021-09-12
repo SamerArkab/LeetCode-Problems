@@ -1,7 +1,7 @@
 # LeetCode-Problems
 Practicing LeetCode Problems
 
-Solved:
-6 easy problems
-0 medium problems
+Solved:<br/>
+6 easy problems<br/>
+0 medium problems<br/>
 0 hard problems
