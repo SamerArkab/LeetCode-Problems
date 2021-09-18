@@ -2,6 +2,6 @@
 Practicing LeetCode Problems
 
 Solved:<br/>
-7 easy problems<br/>
-0 medium problems<br/>
+8 easy problems<br/>
+2 medium problems<br/>
 0 hard problems
